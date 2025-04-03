@@ -1,3 +1,3 @@
 # apna-demo
 <br>
-Author - Shradha Kapoor
+Author - Shradha (apna demo)
